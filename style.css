@@ -1,0 +1,53 @@
+.container{
+    text-align: center;
+    margin-top:23px;
+	
+	
+	
+}
+h1{
+	color:purple;
+	font-family:'Poppins';
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 60px;
+    border: 0;
+	outline:0;
+	width:456px;
+	height:60px;
+	box-shadow:-8px -8px 15px rgba(255,250,255,0.1),5px 5px 15px rgba(0,0,0,0.2);
+	font-size:20px;
+	color:black
+	cursor:pointer;
+	margin:10px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: rgba(140, 60, 140, 0.7);
+    width: 99px;
+    height: 90px;
+    margin: 6px;
+	
+	
+}
+
+.calculator{ 
+    border: 2px solid #13695d;
+    background-color: #978faa;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
